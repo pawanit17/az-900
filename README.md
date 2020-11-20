@@ -36,3 +36,32 @@ Dedicated server > Virtual Private Server > Shared Hosting > Cloud Hosting
 ## Responsibilities
 ![Image of cloud service responsibilities](cloud-computing-responsibilities.png)
 
+## Azure Deployment Models:
+![Image of cloud deployment models](cloud-deployment-configurations.png)
+
+## Total Cost of Ownership ( TCO )
+![Image of total cost of ownerships](total-cost-of-ownership.png)
+
+## Capex vs Opex
+Spending money ###upfront### on physical infrastructure
+1. Server costs, harddrives, Routers, cables, switches.
+2. Technical Personal
+3. Datacenter costs ( Rent, cooling, phyisical security ).
+
+With cloud, Capex is removed. With Operation Expenses, you can try a product or service without investing in equipment.
+
+## Cloud Architecture Terminologies
+Availability zone is the Azure Data Center.
+
+1. Availability - ensure that a service remains available.
+![Image of availability](availability.png)
+2. Scalable - Grow rapidly
+![Image of availability](scaling.png)
+3. Elasticity - shrink or grow to meet a demand
+![Image of availability](elasticity.png)
+4. Fault Tolerant - ability to prevent a failure
+![Image of availability](availability.png)
+5. Disaster recovery - ability to recover from a failure
+![Image of availability](disaster recovery.png)
+
+
